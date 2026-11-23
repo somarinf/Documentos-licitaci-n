@@ -1,0 +1,140 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 3 /Kids [7 0 R 9 0 R 11 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2287 >>
+stream
+BT /F2 18 Tf 54 717 Td (PROPUESTA TÉCNICA) Tj ET
+BT /F2 15 Tf 54 664 Td (Proceso F-CD-196 / Contrato F-CPS-125-2026 - Universidad de) Tj ET
+BT /F2 15 Tf 54 646 Td (Cundinamarca) Tj ET
+BT /F4 9 Tf 66 600 Td (SIMULACIÓN ACADÉMICA. Ajustar las especificaciones a la realidad de su empresa/servicio.) Tj ET
+BT /F1 10 Tf 54 572 Td (Proponente: SMF & NRO Soluciones de Información Académica S.A.S.) Tj ET
+BT /F1 10 Tf 54 558 Td (Representante legal: Sofía Marín Franco) Tj ET
+BT /F1 8 Tf 54 530 Td (______________________________________________________________) Tj ET
+BT /F2 15 Tf 54 484 Td (1. DESCRIPCIÓN GENERAL DEL SERVICIO) Tj ET
+BT /F1 10 Tf 54 438 Td (Ofrecemos una solución integral de recursos de información académica y científica en línea, diseñada) Tj ET
+BT /F1 10 Tf 54 424 Td (para apoyar los procesos de docencia, investigación y extensión de la Universidad de Cundinamarca en) Tj ET
+BT /F1 10 Tf 54 410 Td (su sede principal, seccionales y extensiones. El servicio incluye acceso a bases de datos de) Tj ET
+BT /F1 10 Tf 54 396 Td (disertaciones y tesis, video académico, eBooks multidisciplinares y un gestor de referencias) Tj ET
+BT /F1 10 Tf 54 382 Td (bibliográficas, con acceso dentro y fuera del campus mediante autenticación IP y proxy.) Tj ET
+BT /F1 8 Tf 54 354 Td (______________________________________________________________) Tj ET
+BT /F2 15 Tf 54 308 Td (2. CUMPLIMIENTO DE ESPECIFICACIONES TÉCNICAS SOLICITADAS) Tj ET
+BT /F2 13 Tf 54 246 Td (2.1 Repositorio de disertaciones y tesis \(tipo ProQuest Dissertations & Theses) Tj ET
+BT /F2 13 Tf 54 230 Td (Global\)) Tj ET
+BT /F3 9 Tf 60 200 Td (Requisito solicitado | Nuestra propuesta) Tj ET
+BT /F3 9 Tf 60 186 Td (Repositorio global de disertaciones y tesis | OK Acceso a repositorio con más de [5] millones de obras) Tj ET
+BT /F3 9 Tf 60 172 Td (Texto completo | OK Más de [3] millones en texto completo) Tj ET
+BT /F3 9 Tf 60 158 Td (Cobertura histórica | OK Desde [1939], contribuciones de +100 países) Tj ET
+BT /F3 9 Tf 60 144 Td (Crecimiento anual | OK +[250.000] obras nuevas por año) Tj ET
+BT /F3 9 Tf 60 130 Td (Acceso institucional | OK Acceso para +[3.100] instituciones y usuarios ilimitados de la Universidad) Tj ET
+BT /F2 13 Tf 54 86 Td (2.2 Video académico \(tipo Academic Video Online - AVON\)) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2649 >>
+stream
+BT /F3 9 Tf 60 738 Td (Requisito | Nuestra propuesta) Tj ET
+BT /F3 9 Tf 60 724 Td (Plataforma de video en streaming | OK +[80.000] títulos) Tj ET
+BT /F3 9 Tf 60 710 Td (Áreas temáticas | OK Antropología, historia, ciencias sociales, salud, negocios, arte, música, literatura) Tj ET
+BT /F3 9 Tf 60 696 Td (Formatos | OK MP4, MP3, PDF \(hasta 4 GB\)) Tj ET
+BT /F3 9 Tf 60 682 Td (Autenticación | OK Acceso por IP y proxy, dentro y fuera del campus) Tj ET
+BT /F3 9 Tf 60 668 Td (Metadatos | OK Carga con metadatos para búsqueda y catálogo) Tj ET
+BT /F2 13 Tf 54 624 Td (2.3 eBooks \(tipo Academic Complete\)) Tj ET
+BT /F3 9 Tf 60 594 Td (Requisito | Nuestra propuesta) Tj ET
+BT /F3 9 Tf 60 580 Td (Base de datos de eBooks | OK +[227.000] títulos, +[33.000] sin DRM) Tj ET
+BT /F3 9 Tf 60 566 Td (Cobertura temática | OK Multidisciplinar con énfasis STEM, diversidad e inclusión) Tj ET
+BT /F3 9 Tf 60 552 Td (Editoriales asociadas | OK +[430] editoriales) Tj ET
+BT /F2 13 Tf 54 508 Td (2.4 Gestor de referencias \(tipo RefWorks\)) Tj ET
+BT /F3 9 Tf 60 478 Td (Requisito | Nuestra propuesta) Tj ET
+BT /F3 9 Tf 60 464 Td (Recolección e importación automática | OK) Tj ET
+BT /F3 9 Tf 60 450 Td (Gestión, lectura y anotación | OK) Tj ET
+BT /F3 9 Tf 60 436 Td (Colaboración en línea | OK) Tj ET
+BT /F3 9 Tf 60 422 Td (Múltiples estilos de citación | OK APA, IEEE, Vancouver, Chicago, entre otros) Tj ET
+BT /F2 13 Tf 54 378 Td (2.5 Soporte técnico) Tj ET
+BT /F3 9 Tf 60 348 Td (Requisito | Nuestra propuesta) Tj ET
+BT /F3 9 Tf 60 334 Td (Centro de asistencia 24/7 | OK Chat, teléfono, correo electrónico) Tj ET
+BT /F3 9 Tf 60 320 Td (Tiempo de respuesta urgente | OK 1 hora) Tj ET
+BT /F3 9 Tf 60 306 Td (Tiempo de respuesta baja/media/alta | OK 1 día hábil) Tj ET
+BT /F1 8 Tf 54 278 Td (______________________________________________________________) Tj ET
+BT /F2 15 Tf 54 232 Td (3. CUMPLIMIENTO DE NOTAS TÉCNICAS) Tj ET
+BT /F1 10 Tf 62 186 Td (- Nota Técnica 1 \(API, metadata, EZproxy, soporte\): Se presenta Carta de Compromiso Técnico) Tj ET
+BT /F1 10 Tf 68 172 Td (\(Anexo 3\).) Tj ET
+BT /F1 10 Tf 62 158 Td (- Nota Técnica 2 \(stanzas / DEMO EZproxy\): Se adjunta documento de stanzas y configuración DEMO) Tj ET
+BT /F1 10 Tf 68 144 Td (\(11_STANZAS_EZPROXY_DEMO.md\).) Tj ET
+BT /F1 10 Tf 62 130 Td (- Nota Técnica 3 \(proveedor exclusivo\): Se adjunta certificado de proveedor exclusivo) Tj ET
+BT /F1 10 Tf 68 116 Td (\(12_CERTIFICADO_PROVEEDOR_EXCLUSIVO.md\).) Tj ET
+BT /F1 10 Tf 62 102 Td (- Nota Técnica 4 \(experiencia\): Se adjuntan hasta 3 certificaciones de experiencia) Tj ET
+BT /F1 10 Tf 68 88 Td (\(10_CERTIFICACIONES_EXPERIENCIA.md\).) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 1783 >>
+stream
+BT /F1 8 Tf 54 738 Td (______________________________________________________________) Tj ET
+BT /F2 15 Tf 54 692 Td (4. PLAN DE IMPLEMENTACIÓN Y CRONOGRAMA) Tj ET
+BT /F3 9 Tf 60 646 Td (Fase | Actividad | Semana) Tj ET
+BT /F3 9 Tf 60 632 Td (1 | Reunión de inicio y elaboración conjunta del cronograma \(Supervisor-Contratista\) | 1) Tj ET
+BT /F3 9 Tf 60 618 Td (2 | Configuración, parametrización y activación del servicio \(integración EZproxy/sistemas institucionales\) | 1-2) Tj ET
+BT /F3 9 Tf 60 604 Td (3 | Entrega de stanzas, accesos y metadata \(XML/CSV\) | 2) Tj ET
+BT /F3 9 Tf 60 590 Td (4 | Capacitaciones virtuales \(mín. 2 sesiones, 50 asistentes, 60 min c/u\) | 3-4) Tj ET
+BT /F3 9 Tf 60 576 Td (5 | Entrega de material promocional y de apoyo digital | 4) Tj ET
+BT /F3 9 Tf 60 562 Td (6 | Soporte y seguimiento durante la vigencia | Permanente) Tj ET
+BT /F1 8 Tf 54 534 Td (______________________________________________________________) Tj ET
+BT /F2 15 Tf 54 488 Td (5. ESTÁNDARES DE INTEROPERABILIDAD Y SEGURIDAD) Tj ET
+BT /F1 10 Tf 62 442 Td (- Interoperabilidad: OpenURL, MARC, KBART, SUSHI, COUNTER.) Tj ET
+BT /F1 10 Tf 62 428 Td (- Seguridad: Cifrado SSL/TLS, controles de acceso, protección contra vulnerabilidades,) Tj ET
+BT /F1 10 Tf 68 414 Td (confidencialidad e integridad de la información.) Tj ET
+BT /F1 10 Tf 62 400 Td (- Actualización: Contenidos y recursos actualizados sin costo adicional durante toda la vigencia) Tj ET
+BT /F1 10 Tf 68 386 Td (contractual.) Tj ET
+BT /F1 10 Tf 54 358 Td (<br>) Tj ET
+BT /F1 10 Tf 54 330 Td (___________________________________) Tj ET
+BT /F1 10 Tf 54 316 Td (SOFÍA MARÍN FRANCO) Tj ET
+BT /F1 10 Tf 54 302 Td (Representante Legal) Tj ET
+BT /F1 10 Tf 54 288 Td (SMF & NRO Soluciones de Información Académica S.A.S.) Tj ET
+endstream
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000128 00000 n 
+0000000225 00000 n 
+0000000327 00000 n 
+0000000422 00000 n 
+0000000527 00000 n 
+0000000683 00000 n 
+0000003022 00000 n 
+0000003179 00000 n 
+0000005881 00000 n 
+0000006039 00000 n 
+trailer
+<< /Size 13 /Root 1 0 R >>
+startxref
+7875
+%%EOF
