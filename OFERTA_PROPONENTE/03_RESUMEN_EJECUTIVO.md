@@ -4,14 +4,14 @@
 
 **Proceso:** Contratación Directa F-CD-196 / Contrato F-CPS-125-2026
 **Entidad contratante:** Universidad de Cundinamarca
-**Proponente:** SMF & NRO Soluciones de Información Académica S.A.S.
-**Representante legal:** Sofía Marín Franco · **Socia:** Natalia Ramírez Ocampo
+**Proponente:** DISTRIBUIDORA ANDINA DE RECURSOS ACADÉMICOS DIGITALES S.A.S.
+**Representante legal:** Carlos Andrés Villamizar Rojas
 
 ---
 
 ## 1. Quiénes somos
 
-SMF & NRO Soluciones de Información Académica S.A.S. es una empresa colombiana especializada en la provisión de recursos de información científica y académica para instituciones de educación superior, con experiencia en la integración de plataformas bibliográficas, acceso remoto y formación de usuarios.
+DISTRIBUIDORA ANDINA DE RECURSOS ACADÉMICOS DIGITALES S.A.S. es una empresa colombiana especializada en la provisión de recursos de información científica y académica para instituciones de educación superior, con experiencia en la integración de plataformas bibliográficas, acceso remoto y formación de usuarios.
 
 ## 2. Qué ofrecemos
 
@@ -22,8 +22,8 @@ Acceso integral a bases de datos en línea de disertaciones y tesis, video acad�
 | Concepto | Valor |
 |----------|-------|
 | Presupuesto oficial | $290.702.465,00 |
-| **Valor de nuestra oferta** | **$288.500.000,00** |
-| Ahorro frente al presupuesto | $2.202.465,00 |
+| **Valor de nuestra oferta** | **$289.900.000,00** |
+| Ahorro frente al presupuesto | $802.465,00 |
 | IVA | Exento (Art. 476 num. 21 E.T.) |
 
 ## 4. Condiciones

@@ -5,9 +5,9 @@
 
 ---
 
-**Ciudad y fecha:** Bogotá D.C., [DD] de [MES] de 2026
+**Ciudad y fecha:** Bogotá D.C., 22 de julio de 2026
 
-Yo, **SOFÍA MARÍN FRANCO**, identificada con cédula de ciudadanía No. **[XX.XXX.XXX]**, actuando en nombre propio y en calidad de Representante Legal de **SMF & NRO Soluciones de Información Académica S.A.S.** (NIT **[900.XXX.XXX-X]**), de manera **libre, previa, expresa e informada**, en cumplimiento de la Ley 1581 de 2012 y el Decreto 1377 de 2013, **AUTORIZO** a la **Universidad de Cundinamarca** para recolectar, almacenar, usar, circular, actualizar y suprimir los datos personales suministrados en el marco del proceso de contratación **F-CD-196 de 2026**, con las siguientes condiciones:
+Yo, **CARLOS ANDRÉS VILLAMIZAR ROJAS**, identificado con cédula de ciudadanía No. **79.845.123**, actuando en nombre propio y en calidad de Representante Legal de **DISTRIBUIDORA ANDINA DE RECURSOS ACADÉMICOS DIGITALES S.A.S.** (NIT **901.456.789-3**), de manera **libre, previa, expresa e informada**, en cumplimiento de la Ley 1581 de 2012 y el Decreto 1377 de 2013, **AUTORIZO** a la **Universidad de Cundinamarca** para recolectar, almacenar, usar, circular, actualizar y suprimir los datos personales suministrados en el marco del proceso de contratación **F-CD-196 de 2026**, con las siguientes condiciones:
 
 ## 1. Finalidades del tratamiento
 - Adelantar el proceso de contratación y, de resultar adjudicatario, la ejecución del contrato.
@@ -27,7 +27,7 @@ Declaro que la presente autorización me fue solicitada y otorgada antes de la e
 <br>
 
 ___________________________________
-**SOFÍA MARÍN FRANCO**
+**CARLOS ANDRÉS VILLAMIZAR ROJAS**
 Representante Legal
-SMF & NRO Soluciones de Información Académica S.A.S.
-C.C. [XX.XXX.XXX]
+DISTRIBUIDORA ANDINA DE RECURSOS ACADÉMICOS DIGITALES S.A.S.
+C.C. 79.845.123 de Bogotá

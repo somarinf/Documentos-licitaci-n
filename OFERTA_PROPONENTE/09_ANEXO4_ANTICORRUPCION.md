@@ -5,7 +5,7 @@
 
 ---
 
-**Ciudad y fecha:** Bogotá D.C., [DD] de [MES] de 2026
+**Ciudad y fecha:** Bogotá D.C., 22 de julio de 2026
 
 **Señores**
 **UNIVERSIDAD DE CUNDINAMARCA**
@@ -15,7 +15,7 @@ Oficina de Compras — Fusagasugá (Cundinamarca)
 
 ---
 
-Yo, **SOFÍA MARÍN FRANCO**, Representante Legal de **SMF & NRO Soluciones de Información Académica S.A.S.** (NIT **[900.XXX.XXX-X]**), en nombre de la persona jurídica que represento, **me comprometo bajo la gravedad de juramento** a lo siguiente:
+Yo, **CARLOS ANDRÉS VILLAMIZAR ROJAS**, Representante Legal de **DISTRIBUIDORA ANDINA DE RECURSOS ACADÉMICOS DIGITALES S.A.S.** (NIT **901.456.789-3**), en nombre de la persona jurídica que represento, **me comprometo bajo la gravedad de juramento** a lo siguiente:
 
 1. **No ofrecer ni otorgar** sobornos, dádivas, comisiones ni ningún tipo de beneficio indebido a servidores públicos, funcionarios o terceros relacionados con el proceso de contratación o la ejecución del contrato.
 
@@ -36,7 +36,7 @@ Declaro que la presente manifestación la hago de manera libre, consciente y vol
 <br>
 
 ___________________________________
-**SOFÍA MARÍN FRANCO**
+**CARLOS ANDRÉS VILLAMIZAR ROJAS**
 Representante Legal
-SMF & NRO Soluciones de Información Académica S.A.S.
-C.C. [XX.XXX.XXX] · NIT [900.XXX.XXX-X]
+DISTRIBUIDORA ANDINA DE RECURSOS ACADÉMICOS DIGITALES S.A.S.
+C.C. 79.845.123 de Bogotá · NIT 901.456.789-3

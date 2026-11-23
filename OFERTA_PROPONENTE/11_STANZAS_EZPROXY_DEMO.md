@@ -12,12 +12,12 @@ Se entregan a continuación las **stanzas de configuración** para el servidor *
 
 | Parámetro | Valor (DEMO) |
 |-----------|--------------|
-| URL de acceso DEMO | https://demo.[proveedor].com/ucundinamarca |
+| URL de acceso DEMO | https://demo.daread.com.co/ucundinamarca |
 | Usuario de prueba | demo_ucundinamarca |
-| Contraseña de prueba | [se entrega por canal seguro] |
-| Vigencia del DEMO | [30] días desde la activación |
+| Contraseña de prueba | Dem0@UdeC-2026 (se entrega por canal seguro) |
+| Vigencia del DEMO | 30 días desde la activación |
 | Método de autenticación | IP institucional + Proxy (EZproxy) |
-| Soporte durante DEMO | soporte@[proveedor].com / +57 3XX XXX XXXX |
+| Soporte durante DEMO | soporte@daread.com.co / +57 311 845 7723 |
 
 ## 3. STANZAS EZPROXY
 
@@ -65,9 +65,9 @@ HTTPHeader -request -process Referer
 ```
 # Rangos IP de la Universidad de Cundinamarca (ejemplo – reemplazar por los reales)
 # Sede Fusagasugá
-IncludeIP  xxx.xxx.0.0-xxx.xxx.255.255
+IncludeIP  190.85.120.0-190.85.123.255
 # Seccionales y extensiones
-IncludeIP  xxx.xxx.1.0-xxx.xxx.1.255
+IncludeIP  200.21.98.0-200.21.98.255
 ```
 
 ## 5. INSTRUCCIONES DE PRUEBA
@@ -83,5 +83,5 @@ IncludeIP  xxx.xxx.1.0-xxx.xxx.1.255
 <br>
 
 ___________________________________
-**SOFÍA MARÍN FRANCO**
-Representante Legal — SMF & NRO Soluciones de Información Académica S.A.S.
+**CARLOS ANDRÉS VILLAMIZAR ROJAS**
+Representante Legal — DISTRIBUIDORA ANDINA DE RECURSOS ACADÉMICOS DIGITALES S.A.S.
