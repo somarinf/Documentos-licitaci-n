@@ -1,6 +1,6 @@
 # CERTIFICACIONES DE EXPERIENCIA (NOTA TÉCNICA 4)
 
-> **SIMULACIÓN ACADÉMICA.** Estas certificaciones deben ser expedidas por **terceros contratantes** (no autocertificaciones). Datos ficticios para la simulación; reemplazar por los reales.
+> **SIMULACIÓN ACADÉMICA.** Datos ficticios. Estas certificaciones las expiden **terceros contratantes** (no son autocertificaciones del proponente).
 
 ---
 
@@ -14,89 +14,93 @@
 - **No se admiten autocertificaciones.** Firma del representante legal del contratante (privado) o funcionario competente (público).
 
 ### Verificación de cumplimiento (simulación)
-| Certificación | Valor ejecutado | Objeto afín |
-|---------------|-----------------|-------------|
-| 1 | $120.000.000 | ✔ |
-| 2 | $95.000.000 | ✔ |
-| 3 | $60.000.000 | ✔ |
-| **Sumatoria** | **$275.000.000** | ✔ (supera $218.026.848,75) |
+| Certificación | Contratante | Valor ejecutado | Objeto afín |
+|---------------|-------------|-----------------|-------------|
+| 1 | Universidad del Valle Andino | $120.000.000 | ✔ |
+| 2 | Corporación Universitaria del Trópico | $85.000.000 | ✔ |
+| 3 | Fundación Universitaria Santa Clara | $60.000.000 | ✔ |
+| **Sumatoria** | | **$265.000.000** | ✔ (supera $218.026.848,75) |
 
 ---
 
 ## CERTIFICACIÓN DE EXPERIENCIA No. 1
 
-**[MEMBRETE DE LA ENTIDAD CONTRATANTE]**
+**UNIVERSIDAD DEL VALLE ANDINO** (membrete de la entidad contratante)
 
-**Ciudad y fecha:** [Ciudad], [DD] de [MES] de [AÑO]
+**Ciudad y fecha:** Cali, 15 de febrero de 2026
 
-**LA SUSCRITA [CARGO] DE [NOMBRE DE LA ENTIDAD/EMPRESA CONTRATANTE], identificada con NIT [NIT],**
+**LA SUSCRITA DIRECTORA DE BIBLIOTECA DE LA UNIVERSIDAD DEL VALLE ANDINO, identificada con NIT 805.112.334-1,**
 
 **CERTIFICA QUE:**
 
 | Campo | Información |
 |-------|-------------|
-| A. Contratante | [Nombre/razón social] — NIT [XXX] |
-| B. Contratista | SMF & NRO Soluciones de Información Académica S.A.S. — NIT [900.XXX.XXX-X] |
-| C. Objeto | Suministro / suscripción de recursos de información académica en línea para [institución] |
-| D. Duración | Del [DD/MM/AAAA] al [DD/MM/AAAA] |
+| A. Contratante | Universidad del Valle Andino — NIT 805.112.334-1 |
+| B. Contratista | DISTRIBUIDORA ANDINA DE RECURSOS ACADÉMICOS DIGITALES S.A.S. — NIT 901.456.789-3 |
+| C. Objeto | Suscripción y acceso a bases de datos en línea de disertaciones, eBooks y video académico para la biblioteca institucional |
+| D. Duración | Del 01/03/2023 al 29/02/2024 |
 | E. Valor (incluye adiciones) | $120.000.000 |
-| F. Expide | [Nombre legible] — [Cargo] |
-| G. Contacto | [Teléfono / dirección / correo] |
+| F. Expide | Ángela María Restrepo Gómez — Directora de Biblioteca |
+| G. Contacto | (602) 486 7700 ext. 120 / biblioteca@uva.edu.co |
 
 El contrato fue ejecutado **a entera satisfacción**, dentro de los plazos y condiciones pactadas.
 
 _________________________
-**[NOMBRE LEGIBLE]**
-[Cargo] — [Entidad contratante]
+**ÁNGELA MARÍA RESTREPO GÓMEZ**
+Directora de Biblioteca — Universidad del Valle Andino
 
 ---
 
 ## CERTIFICACIÓN DE EXPERIENCIA No. 2
 
-**[MEMBRETE DE LA ENTIDAD CONTRATANTE]**
+**CORPORACIÓN UNIVERSITARIA DEL TRÓPICO** (membrete de la entidad contratante)
 
-**Ciudad y fecha:** [Ciudad], [DD] de [MES] de [AÑO]
+**Ciudad y fecha:** Barranquilla, 10 de enero de 2026
+
+**EL SUSCRITO VICERRECTOR ADMINISTRATIVO DE LA CORPORACIÓN UNIVERSITARIA DEL TRÓPICO, identificado con NIT 802.009.876-5,**
 
 **CERTIFICA QUE:**
 
 | Campo | Información |
 |-------|-------------|
-| A. Contratante | [Nombre/razón social] — NIT [XXX] |
-| B. Contratista | SMF & NRO Soluciones de Información Académica S.A.S. — NIT [900.XXX.XXX-X] |
-| C. Objeto | Prestación del servicio de bases de datos bibliográficas en línea y gestor de referencias |
-| D. Duración | Del [DD/MM/AAAA] al [DD/MM/AAAA] |
-| E. Valor (incluye adiciones) | $95.000.000 |
-| F. Expide | [Nombre legible] — [Cargo] |
-| G. Contacto | [Teléfono / dirección / correo] |
+| A. Contratante | Corporación Universitaria del Trópico — NIT 802.009.876-5 |
+| B. Contratista | DISTRIBUIDORA ANDINA DE RECURSOS ACADÉMICOS DIGITALES S.A.S. — NIT 901.456.789-3 |
+| C. Objeto | Prestación del servicio de bases de datos bibliográficas en línea y gestor de referencias con acceso remoto vía EZproxy |
+| D. Duración | Del 15/07/2022 al 14/07/2023 |
+| E. Valor (incluye adiciones) | $85.000.000 |
+| F. Expide | Rafael Enrique Movilla Pérez — Vicerrector Administrativo |
+| G. Contacto | (605) 361 2200 ext. 305 / vicerrectoria@cutropico.edu.co |
 
 El contrato fue ejecutado **a entera satisfacción**.
 
 _________________________
-**[NOMBRE LEGIBLE]**
-[Cargo] — [Entidad contratante]
+**RAFAEL ENRIQUE MOVILLA PÉREZ**
+Vicerrector Administrativo — Corporación Universitaria del Trópico
 
 ---
 
 ## CERTIFICACIÓN DE EXPERIENCIA No. 3
 
-**[MEMBRETE DE LA ENTIDAD CONTRATANTE]**
+**FUNDACIÓN UNIVERSITARIA SANTA CLARA** (membrete de la entidad contratante)
 
-**Ciudad y fecha:** [Ciudad], [DD] de [MES] de [AÑO]
+**Ciudad y fecha:** Bucaramanga, 28 de noviembre de 2025
+
+**LA SUSCRITA SECRETARIA GENERAL DE LA FUNDACIÓN UNIVERSITARIA SANTA CLARA, identificada con NIT 804.556.221-9,**
 
 **CERTIFICA QUE:**
 
 | Campo | Información |
 |-------|-------------|
-| A. Contratante | [Nombre/razón social] — NIT [XXX] |
-| B. Contratista | SMF & NRO Soluciones de Información Académica S.A.S. — NIT [900.XXX.XXX-X] |
-| C. Objeto | Suscripción de plataforma de video académico y eBooks para biblioteca universitaria |
-| D. Duración | Del [DD/MM/AAAA] al [DD/MM/AAAA] |
+| A. Contratante | Fundación Universitaria Santa Clara — NIT 804.556.221-9 |
+| B. Contratista | DISTRIBUIDORA ANDINA DE RECURSOS ACADÉMICOS DIGITALES S.A.S. — NIT 901.456.789-3 |
+| C. Objeto | Suscripción de plataforma de video académico en streaming y eBooks multidisciplinares para la red de bibliotecas |
+| D. Duración | Del 01/02/2024 al 31/01/2025 |
 | E. Valor (incluye adiciones) | $60.000.000 |
-| F. Expide | [Nombre legible] — [Cargo] |
-| G. Contacto | [Teléfono / dirección / correo] |
+| F. Expide | Claudia Patricia Ardila Suárez — Secretaria General |
+| G. Contacto | (607) 652 9000 ext. 210 / secretariageneral@fusantaclara.edu.co |
 
 El contrato fue ejecutado **a entera satisfacción**.
 
 _________________________
-**[NOMBRE LEGIBLE]**
-[Cargo] — [Entidad contratante]
+**CLAUDIA PATRICIA ARDILA SUÁREZ**
+Secretaria General — Fundación Universitaria Santa Clara

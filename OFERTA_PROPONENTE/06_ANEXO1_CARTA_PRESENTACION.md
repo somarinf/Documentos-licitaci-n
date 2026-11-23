@@ -4,7 +4,7 @@
 
 ---
 
-**Ciudad y fecha:** Bogotá D.C., [DD] de [MES] de 2026
+**Ciudad y fecha:** Bogotá D.C., 22 de julio de 2026
 
 **Señores**
 **UNIVERSIDAD DE CUNDINAMARCA**
@@ -17,7 +17,7 @@ Diagonal 18 # 20-29, Fusagasugá (Cundinamarca)
 
 Respetados señores:
 
-Yo, **SOFÍA MARÍN FRANCO**, identificada con cédula de ciudadanía No. **[XX.XXX.XXX]**, obrando en calidad de **Representante Legal** de **SMF & NRO Soluciones de Información Académica S.A.S.**, identificada con NIT **[900.XXX.XXX-X]**, presento cotización para el proceso de la referencia y, en tal sentido, **manifiesto bajo la gravedad de juramento** lo siguiente:
+Yo, **CARLOS ANDRÉS VILLAMIZAR ROJAS**, identificado con cédula de ciudadanía No. **79.845.123**, obrando en calidad de **Representante Legal** de **DISTRIBUIDORA ANDINA DE RECURSOS ACADÉMICOS DIGITALES S.A.S.**, identificada con NIT **901.456.789-3**, presento cotización para el proceso de la referencia y, en tal sentido, **manifiesto bajo la gravedad de juramento** lo siguiente:
 
 1. Que conozco y acepto íntegramente las condiciones, especificaciones técnicas, notas técnicas y demás requisitos establecidos en la solicitud de cotización y sus anexos.
 
@@ -27,9 +27,9 @@ Yo, **SOFÍA MARÍN FRANCO**, identificada con cédula de ciudadanía No. **[XX.
 
 4. Que no he sido sancionado mediante acto administrativo ejecutoriado ni me encuentro reportado en los boletines de responsables fiscales.
 
-5. Que la oferta tiene una validez de **[90] días calendario** contados a partir de la fecha de cierre del proceso.
+5. Que la oferta tiene una validez de **90 días calendario** contados a partir de la fecha de cierre del proceso.
 
-6. Que me comprometo a ejecutar el objeto contractual en los plazos, condiciones y términos señalados, por el valor total de **DOSCIENTOS OCHENTA Y OCHO MILLONES QUINIENTOS MIL PESOS M/CTE ($288.500.000,00)**, servicio exento de IVA.
+6. Que me comprometo a ejecutar el objeto contractual en los plazos, condiciones y términos señalados, por el valor total de **DOSCIENTOS OCHENTA Y NUEVE MILLONES NOVECIENTOS MIL PESOS M/CTE ($289.900.000,00)**, servicio exento de IVA.
 
 7. Que acepto la forma de pago establecida (único pago al cumplimiento del objeto contractual) y el plazo de ejecución de dos (02) meses / suscripción del servicio por un (01) año.
 
@@ -38,17 +38,17 @@ Yo, **SOFÍA MARÍN FRANCO**, identificada con cédula de ciudadanía No. **[XX.
 9. Que en caso de resultar adjudicatario, me comprometo a suscribir el contrato y a constituir las garantías exigidas dentro de los plazos establecidos.
 
 Para notificaciones recibo comunicaciones en:
-- **Dirección:** [Dirección], Bogotá D.C.
-- **Teléfono/celular:** [(60X) XXX XXXX] / [+57 3XX XXX XXXX]
-- **Correo electrónico:** [contacto@smfnro.com.co]
+- **Dirección:** Carrera 13 # 93-40, oficina 502, Bogotá D.C.
+- **Teléfono/celular:** (601) 742 8890 / +57 311 845 7723
+- **Correo electrónico:** contratacion@daread.com.co
 
 Atentamente,
 
 <br>
 
 ___________________________________
-**SOFÍA MARÍN FRANCO**
+**CARLOS ANDRÉS VILLAMIZAR ROJAS**
 Representante Legal
-SMF & NRO Soluciones de Información Académica S.A.S.
-C.C. [XX.XXX.XXX]
-NIT [900.XXX.XXX-X]
+DISTRIBUIDORA ANDINA DE RECURSOS ACADÉMICOS DIGITALES S.A.S.
+C.C. 79.845.123 de Bogotá
+NIT 901.456.789-3

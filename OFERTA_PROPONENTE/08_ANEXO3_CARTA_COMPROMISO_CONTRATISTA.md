@@ -5,7 +5,7 @@
 
 ---
 
-**Ciudad y fecha:** Bogotá D.C., [DD] de [MES] de 2026
+**Ciudad y fecha:** Bogotá D.C., 22 de julio de 2026
 
 **Señores**
 **UNIVERSIDAD DE CUNDINAMARCA**
@@ -15,7 +15,7 @@ Oficina de Compras — Fusagasugá (Cundinamarca)
 
 ---
 
-Yo, **SOFÍA MARÍN FRANCO**, Representante Legal de **SMF & NRO Soluciones de Información Académica S.A.S.** (NIT **[900.XXX.XXX-X]**), en caso de resultar adjudicatario del proceso de la referencia, **me comprometo** a garantizar el cumplimiento de los siguientes aspectos, conforme a la **Nota Técnica 1** y a las obligaciones del contrato:
+Yo, **CARLOS ANDRÉS VILLAMIZAR ROJAS**, Representante Legal de **DISTRIBUIDORA ANDINA DE RECURSOS ACADÉMICOS DIGITALES S.A.S.** (NIT **901.456.789-3**), en caso de resultar adjudicatario del proceso de la referencia, **me comprometo** a garantizar el cumplimiento de los siguientes aspectos, conforme a la **Nota Técnica 1** y a las obligaciones del contrato:
 
 ## 1. Acceso a la API y librerías
 Proporcionar acceso **completo, operativo y actualizado** a la API y a las librerías necesarias para la interacción con los recursos contratados, manteniendo su disponibilidad y correcto funcionamiento durante toda la vigencia del contrato.
@@ -59,7 +59,7 @@ Adicionalmente, me comprometo a:
 <br>
 
 ___________________________________
-**SOFÍA MARÍN FRANCO**
+**CARLOS ANDRÉS VILLAMIZAR ROJAS**
 Representante Legal
-SMF & NRO Soluciones de Información Académica S.A.S.
-C.C. [XX.XXX.XXX] · NIT [900.XXX.XXX-X]
+DISTRIBUIDORA ANDINA DE RECURSOS ACADÉMICOS DIGITALES S.A.S.
+C.C. 79.845.123 de Bogotá · NIT 901.456.789-3

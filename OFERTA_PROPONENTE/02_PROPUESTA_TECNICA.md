@@ -3,8 +3,8 @@
 
 > **SIMULACIÓN ACADÉMICA.** Ajustar las especificaciones a la realidad de su empresa/servicio.
 
-**Proponente:** SMF & NRO Soluciones de Información Académica S.A.S.
-**Representante legal:** Sofía Marín Franco
+**Proponente:** DISTRIBUIDORA ANDINA DE RECURSOS ACADÉMICOS DIGITALES S.A.S.
+**Representante legal:** Carlos Andrés Villamizar Rojas
 
 ---
 
@@ -19,16 +19,16 @@ Ofrecemos una solución integral de recursos de información académica y cient�
 ### 2.1 Repositorio de disertaciones y tesis (tipo ProQuest Dissertations & Theses Global)
 | Requisito solicitado | Nuestra propuesta |
 |----------------------|-------------------|
-| Repositorio global de disertaciones y tesis | ✔ Acceso a repositorio con más de [5] millones de obras |
-| Texto completo | ✔ Más de [3] millones en texto completo |
-| Cobertura histórica | ✔ Desde [1939], contribuciones de +100 países |
-| Crecimiento anual | ✔ +[250.000] obras nuevas por año |
-| Acceso institucional | ✔ Acceso para +[3.100] instituciones y usuarios ilimitados de la Universidad |
+| Repositorio global de disertaciones y tesis | ✔ Acceso a repositorio con más de 5 millones de obras |
+| Texto completo | ✔ Más de 3 millones en texto completo |
+| Cobertura histórica | ✔ Desde 1939, contribuciones de +100 países |
+| Crecimiento anual | ✔ +250.000 obras nuevas por año |
+| Acceso institucional | ✔ Acceso para +3.100 instituciones y usuarios ilimitados de la Universidad |
 
 ### 2.2 Video académico (tipo Academic Video Online – AVON)
 | Requisito | Nuestra propuesta |
 |-----------|-------------------|
-| Plataforma de video en streaming | ✔ +[80.000] títulos |
+| Plataforma de video en streaming | ✔ +80.000 títulos |
 | Áreas temáticas | ✔ Antropología, historia, ciencias sociales, salud, negocios, arte, música, literatura |
 | Formatos | ✔ MP4, MP3, PDF (hasta 4 GB) |
 | Autenticación | ✔ Acceso por IP y proxy, dentro y fuera del campus |
@@ -37,9 +37,9 @@ Ofrecemos una solución integral de recursos de información académica y cient�
 ### 2.3 eBooks (tipo Academic Complete)
 | Requisito | Nuestra propuesta |
 |-----------|-------------------|
-| Base de datos de eBooks | ✔ +[227.000] títulos, +[33.000] sin DRM |
+| Base de datos de eBooks | ✔ +227.000 títulos, +33.000 sin DRM |
 | Cobertura temática | ✔ Multidisciplinar con énfasis STEM, diversidad e inclusión |
-| Editoriales asociadas | ✔ +[430] editoriales |
+| Editoriales asociadas | ✔ +430 editoriales |
 
 ### 2.4 Gestor de referencias (tipo RefWorks)
 | Requisito | Nuestra propuesta |
@@ -89,6 +89,6 @@ Ofrecemos una solución integral de recursos de información académica y cient�
 <br>
 
 ___________________________________
-**SOFÍA MARÍN FRANCO**
+**CARLOS ANDRÉS VILLAMIZAR ROJAS**
 Representante Legal
-SMF & NRO Soluciones de Información Académica S.A.S.
+DISTRIBUIDORA ANDINA DE RECURSOS ACADÉMICOS DIGITALES S.A.S.
